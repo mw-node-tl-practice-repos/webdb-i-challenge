@@ -1,5 +1,7 @@
 # Database Queries
 
+-Ensure that you make your project manager a collaborator on this repo!
+
 ## Topics
 
 - Relational Databases
